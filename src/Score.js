@@ -10,7 +10,6 @@ function Score(props) {
             ))}
         </div>
     );
-    
 }
 
 export default Score;
