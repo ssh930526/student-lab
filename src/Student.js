@@ -8,6 +8,7 @@ function Student(props) {
                 <div>
                     Name: {stud.name}
                     <br />
+                    
                     Bio: {stud.bio}
                     <Score scores={stud.scores} />
                 </div>
